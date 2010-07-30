@@ -1,0 +1,3 @@
+= My zsh Theme
+
+I created this zsh theme inspired by Peepcode screencasts.
